@@ -1,0 +1,36 @@
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+.card{
+  background-color:rgb(244, 244, 241);
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.card-infor{
+  margin-top: 10px;
+}
+
+.card-infor img{
+  border-radius: 10px;
+}
+
+button{
+  background-color: rgb(95, 151, 114);
+  width: 150px;
+  height: 50px;
+  border: none;
+  border-radius: 10px;
+  color: rgb(245, 242, 242);
+  font-size: 1.2rem;
+}
+button:hover{
+  background-color: rgb(47, 83, 59);
+  transform: scale(1.1);
+}
