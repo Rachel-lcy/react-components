@@ -4,7 +4,6 @@ import xian from './assets/xian.jpg';
 import shenzhen from './assets/shenzhen1.jpg';
 import calgary from './assets/calgary.jpg';
 
-
 function App() {
 
   const cardsData = [
